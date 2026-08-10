@@ -14,7 +14,7 @@
 
 **Brazilian Army Sergeant → Network Infrastructure & Security**
 
-I've spent 8 years in the Brazilian Army as a career Third Sergeant. This year, after starting my Computer Networks degree, I began supporting my unit's IT section with the battalion's network and Linux servers, switches, cabling, and support tickets.
+I've spent 8 years in the Brazilian Army as a career Third Sergeant, working in vehicle maintenance. This year, after starting my Computer Networks degree, I went all in on networking through the Army's own technical training — internships in Linux and Networking at the CTA, cabling and IT logistics courses, and the Cisco CCNA track — plus daily study on my own.
 
 I started my studies aiming straight at DevOps: Docker, Terraform, CI/CD. I could follow the steps, but when something broke I couldn't explain why. The missing piece was never the tool. It was the layer underneath. So I made a deliberate decision to stop and rebuild the foundation first.
 

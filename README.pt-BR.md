@@ -14,7 +14,7 @@
 
 **Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança**
 
-Estou há 8 anos no Exército Brasileiro, onde sou 3º Sargento de carreira. Este ano, depois de começar a faculdade de Redes de Computadores, passei a apoiar a seção de informática da minha OM com a rede do batalhão e servidores Linux, switches, cabeamento e chamados de suporte.
+Estou há 8 anos no Exército Brasileiro, onde sou 3º Sargento de carreira, na área de manutenção de viaturas. Este ano, depois de começar a faculdade de Redes de Computadores, mergulhei de vez em redes pela formação técnica do próprio Exército — estágios de Linux e Redes no CTA, cursos de cabeamento e logística de TI, e a trilha Cisco CCNA — além do estudo diário por conta própria.
 
 Comecei meus estudos mirando direto em DevOps: Docker, Terraform, CI/CD. Eu conseguia seguir o passo a passo, mas quando algo quebrava eu não sabia explicar o porquê. O que faltava nunca foi a ferramenta. Era a camada de baixo. Aí tomei uma decisão deliberada de parar e reconstruir a base primeiro.
 

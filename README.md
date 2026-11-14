@@ -26,7 +26,7 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 
 ### 📚 Currently Learning
 
-- 🌐 **Networking** — full Cisco academy track, CCNA 1 → 2 → 3
+- 🌐 **Networking** — CCNA 200-301 v2.0 prep, mapped to the official exam topics (troubleshooting-first)
 - 🔀 **Switching & routing** — VLANs, addressing plans, static and dynamic routing
 - 🔒 **Network security** fundamentals — ACLs, hardening, secure access
 - 🧵 **Structured cabling & physical infrastructure** — the layer under everything
@@ -66,10 +66,10 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 | Network Fundamentals (Teltec partnership) — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
 | Network & Data Cabling — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
 | IT Logistics for Supported Units — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
-| CCNA 1: Introduction to Networks — Cisco Networking Academy (via EsCom, Brazilian Army) | 🎯 In progress 2026 |
+| CCNA 1: Introduction to Networks — Cisco Networking Academy (via EsCom, Brazilian Army) | ✅ Aug 2026 |
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Next |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planned |
-| CCNA 200-301 — Cisco Certified Network Associate | ⏳ After the academy track |
+| CCNA 200-301 (v2.0) — Cisco Certified Network Associate | 🎯 Preparing — exam target Apr/May 2027 |
 | CKA — Certified Kubernetes Administrator | ⏳ Later |
 
 ---

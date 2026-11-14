@@ -26,7 +26,7 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 
 ### 📚 Estudando Atualmente
 
-- 🌐 **Redes** — trilha completa da academia Cisco, CCNA 1 → 2 → 3
+- 🌐 **Redes** — preparação para o CCNA 200-301 v2.0, guiada pelo conteúdo oficial da prova (foco em diagnóstico)
 - 🔀 **Switching e roteamento** — VLANs, plano de endereçamento, rota estática e dinâmica
 - 🔒 **Segurança de redes** (fundamentos) — ACLs, hardening, acesso seguro
 - 🧵 **Cabeamento estruturado e infraestrutura física** — a camada embaixo de tudo
@@ -66,10 +66,10 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 | Fundamentos de Redes (parceria Teltec) — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
 | Cabeamento de Redes e Dados — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
 | Logística de TI — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
-| CCNA 1: Introduction to Networks — Cisco Networking Academy (via EsCom, Exército Brasileiro) | 🎯 Em andamento 2026 |
+| CCNA 1: Introduction to Networks — Cisco Networking Academy (via EsCom, Exército Brasileiro) | ✅ Ago 2026 |
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Próxima |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planejado |
-| CCNA 200-301 — Cisco Certified Network Associate | ⏳ Depois da trilha da academia |
+| CCNA 200-301 (v2.0) — Cisco Certified Network Associate | 🎯 Em preparação — prova prevista para abr/mai 2027 |
 | CKA — Certified Kubernetes Administrator | ⏳ Mais adiante |
 
 ---

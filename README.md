@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?v=20260802c&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Brazilian+Army+Sergeant;Network+Infrastructure+%26+Operations;The+foundation+for+DevOps;Documenting+every+lab+I+build" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?v=20260802c&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Brazilian+Army+Sergeant;Network+Engineer+in+training;CCNA+200-301+%C2%B7+2027;Documenting+every+lab+I+build" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 I've spent 8 years in the Brazilian Army as a career Third Sergeant, working in vehicle maintenance. This year, after starting my Computer Networks degree, I went all in on networking through the Army's own technical training — internships in Linux and Networking at the CTA, cabling and IT logistics courses, and the Cisco CCNA track — plus daily study on my own.
 
-I started my studies aiming straight at DevOps: Docker, Terraform, CI/CD. I could follow the steps, but when something broke I couldn't explain why. The missing piece was never the tool. It was the layer underneath. So I made a deliberate decision to stop and rebuild the foundation first.
+I started my studies aiming straight at DevOps: Docker, Terraform, CI/CD. I could follow the steps, but when something broke I couldn't explain why. The missing piece was never the tool. It was the layer underneath. So I went down to that layer, and that's where I found the work I actually want to do.
 
-That foundation is networking and Linux. Addressing, subnetting, switching, routing, connectivity, and the security that comes with them. Everything else runs on top of it. Networking is also my entry point into the industry, and that was a choice, not a fallback. DevOps is still where I'm going, built on this base rather than replacing it. You can't automate or protect infrastructure you don't understand.
+That layer is networking and Linux. Addressing, subnetting, switching, routing, connectivity, and the security that comes with them. Everything else runs on top of it. It isn't a step toward something else. It's the career I'm building, aiming at data center and ISP network operations. You can't operate or protect infrastructure you don't understand.
 
 I study daily and document every lab openly on GitHub, because a fix nobody can repeat isn't really a fix.
 
@@ -46,12 +46,8 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### Further ahead on the roadmap
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Next on the roadmap
+OSPF · IPv6 · BGP basics · network automation with Python
 
 ---
 
@@ -70,7 +66,6 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Next |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planned |
 | CCNA 200-301 (v2.0) — Cisco Certified Network Associate | 🎯 Preparing — exam target Apr/May 2027 |
-| CKA — Certified Kubernetes Administrator | ⏳ Later |
 
 ---
 
@@ -79,7 +74,7 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 Everything about my learning path — roadmap, progress, study notes, network topologies, and hands-on labs — is tracked in one place:
 
 <p align="center">
-  <a href="https://github.com/joaopdevops/devops-roadmap">
+  <a href="https://github.com/joaopdevops/network-engineering-journey">
     <img src="https://img.shields.io/badge/📂_Network_Infrastructure_Roadmap-Main_Repository-00D9FF?style=for-the-badge" alt="Network Infrastructure Roadmap" />
   </a>
 </p>

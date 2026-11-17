@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?v=20260802c&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Infraestrutura+de+Redes+%26+Opera%C3%A7%C3%B5es;A+base+para+DevOps;Documento+cada+lab+que+construo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?v=20260802c&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Engenheiro+de+Redes+em+forma%C3%A7%C3%A3o;CCNA+200-301+%C2%B7+2027;Documento+cada+lab+que+construo" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 Estou há 8 anos no Exército Brasileiro, onde sou 3º Sargento de carreira, na área de manutenção de viaturas. Este ano, depois de começar a faculdade de Redes de Computadores, mergulhei de vez em redes pela formação técnica do próprio Exército — estágios de Linux e Redes no CTA, cursos de cabeamento e logística de TI, e a trilha Cisco CCNA — além do estudo diário por conta própria.
 
-Comecei meus estudos mirando direto em DevOps: Docker, Terraform, CI/CD. Eu conseguia seguir o passo a passo, mas quando algo quebrava eu não sabia explicar o porquê. O que faltava nunca foi a ferramenta. Era a camada de baixo. Aí tomei uma decisão deliberada de parar e reconstruir a base primeiro.
+Comecei meus estudos mirando direto em DevOps: Docker, Terraform, CI/CD. Eu conseguia seguir o passo a passo, mas quando algo quebrava eu não sabia explicar o porquê. O que faltava nunca foi a ferramenta. Era a camada de baixo. Aí desci pra essa camada, e foi nela que encontrei o trabalho que eu quero fazer.
 
-Essa base é redes e Linux. Endereçamento, sub-redes, switching, roteamento, conectividade e a segurança que vem junto. Todo o resto roda em cima disso. Redes é também a minha porta de entrada no mercado, e isso foi escolha, não plano B. DevOps continua sendo meu destino, construído sobre essa base em vez de substituí-la. Não dá pra automatizar nem proteger uma infraestrutura que você não entende.
+Essa camada é redes e Linux. Endereçamento, sub-redes, switching, roteamento, conectividade e a segurança que vem junto. Todo o resto roda em cima disso. Não é degrau pra outra coisa. É a carreira que estou construindo, mirando operação de redes em data center e provedor. Não dá pra operar nem proteger uma infraestrutura que você não entende.
 
 Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto que ninguém consegue repetir não é bem um conserto.
 
@@ -46,12 +46,8 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### Mais adiante no roadmap
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Próximos passos
+OSPF · IPv6 · noções de BGP · automação de redes com Python
 
 ---
 
@@ -70,7 +66,6 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Próxima |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planejado |
 | CCNA 200-301 (v2.0) — Cisco Certified Network Associate | 🎯 Em preparação — prova prevista para abr/mai 2027 |
-| CKA — Certified Kubernetes Administrator | ⏳ Mais adiante |
 
 ---
 
@@ -79,7 +74,7 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e laboratórios práticos — está documentado em um só lugar:
 
 <p align="center">
-  <a href="https://github.com/joaopdevops/devops-roadmap">
+  <a href="https://github.com/joaopdevops/network-engineering-journey">
     <img src="https://img.shields.io/badge/📂_Roadmap_de_Infraestrutura_de_Redes-Repositório_Principal-00D9FF?style=for-the-badge" alt="Roadmap de Infraestrutura de Redes" />
   </a>
 </p>

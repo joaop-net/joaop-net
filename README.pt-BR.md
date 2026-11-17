@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github.com/joaopdevops/joaopdevops/blob/main/README.md">🇺🇸 Read in English</a>
+  <a href="https://github.com/joaop-net/joaop-net/blob/main/README.md">🇺🇸 Read in English</a>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopdevops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=joaop-net&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # João Pedro Ribeiro
@@ -74,7 +74,7 @@ OSPF · IPv6 · noções de BGP · automação de redes com Python
 Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e laboratórios práticos — está documentado em um só lugar:
 
 <p align="center">
-  <a href="https://github.com/joaopdevops/network-engineering-journey">
+  <a href="https://github.com/joaop-net/network-engineering-journey">
     <img src="https://img.shields.io/badge/📂_Roadmap_de_Infraestrutura_de_Redes-Repositório_Principal-00D9FF?style=for-the-badge" alt="Roadmap de Infraestrutura de Redes" />
   </a>
 </p>
@@ -84,7 +84,7 @@ Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joaopdevops&theme=dracula&hide_border=true&cache_seconds=21600&v=20260702" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joaop-net&theme=dracula&hide_border=true&cache_seconds=21600&v=20260702" alt="GitHub Streak" />
 </div>
 
 ---
@@ -92,4 +92,4 @@ Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopdevops-181717?style=flat-square&logo=github)](https://github.com/joaopdevops)
+[![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
